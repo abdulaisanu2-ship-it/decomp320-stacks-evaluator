@@ -1,0 +1,25 @@
+13
+-----
+16
+-----
+-10
+-----
+5
+-----
+24
+-----
+3.5
+-----
+3
+-----
+-6
+-----
+15
+-----
+Error: Division by zero
+-----
+Error: Mismatched parentheses
+-----
+Error: Invalid expression
+-----
+Error: Invalid character 'a'
